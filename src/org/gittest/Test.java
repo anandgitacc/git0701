@@ -21,6 +21,11 @@ public class Test {
 	private void empId() {
 		System.out.println("Employee id is : 6546");
 	}
+	
+	private void empAdd() {
+		
+		System.out.println("OMR, Chennai");
+	}
 
 	// main method
 	public static void main(String[] args) {
